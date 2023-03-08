@@ -7,3 +7,11 @@ The components used in the following project are:
 * TowerPro SG90 Mini Servo – 180 degree Rotation
 
 ## Diagrams
+* Circuit Diagram
+    ![circuit diagram](https://github.com/VedantPol/Auto-light-alarm/blob/main/images/circuit_diagram.png)
+    
+* Skematic Diagram
+    ![skematic Diagram](https://github.com/VedantPol/Auto-light-alarm/blob/main/images/skematic_diagram.png)
+* Implementation Image
+    ![Implementaiton](https://github.com/VedantPol/Auto-light-alarm/blob/main/images/real.jpeg)
+* 
