@@ -5,13 +5,18 @@ The components used in the following project are:
 * Arduino Uno R3
 * DS1307 Real Time Clock (RTC) Module
 * TowerPro SG90 Mini Servo – 180 degree Rotation
+## Demo
 
+<!--     <img src="[https://github.com/favicon.ico](https://github.com/VedantPol/Auto-light-alarm/blob/main/images/gif1.gif)" width="48"> -->
+    
 ## Diagrams
-* Circuit Diagram
+* **Circuit Diagram**
+
     ![circuit diagram](https://github.com/VedantPol/Auto-light-alarm/blob/main/images/circuit_diagram.png)
     
-* Skematic Diagram
+* **Skematic Diagram**
+
     ![skematic Diagram](https://github.com/VedantPol/Auto-light-alarm/blob/main/images/skematic_diagram.png)
-* Implementation Image
+*  **Implementation Image**
+
     ![Implementaiton](https://github.com/VedantPol/Auto-light-alarm/blob/main/images/real.jpeg)
-* 
