@@ -8,7 +8,7 @@ The components used in the following project are:
 ## Demo
 <p  align="middle">
 <img src="https://github.com/VedantPol/Auto-light-alarm/blob/main/images/gif1.gif" width="300"> 
-    &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
+    &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;  
 <img src="https://github.com/VedantPol/Auto-light-alarm/blob/main/images/gif2.gif" width="300">
 </p>
 
